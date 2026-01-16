@@ -10,8 +10,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## 1.0.1
 
 ### Changed
-- v1.0.1 Uniform values tweaked.
-- v1.0.1 Vest values tweaked.
+- Uniform values tweaked.
+- Vest values tweaked.
 
 ## 1.0.0
 
