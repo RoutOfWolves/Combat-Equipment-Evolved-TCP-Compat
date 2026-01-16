@@ -1,4 +1,4 @@
-# ArmA 3 Mod Template
+# Combat Equipment Evolved TCP Compat
 
 This repository provides balance compatibility between Combat Equipment Evolved by Rogue771 and MachoMain and The Cole Protocol by Black Element Studios.
 
